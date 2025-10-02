@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 01 19:29:00 PDT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0199-a2c0-5d46-0000242a4930 
+on database directory /Users/yasony/Library/Mobile Documents/com~apple~CloudDocs/GitHub/ApachSpark/metastore_db with class loader sun.misc.Launcher$AppClassLoader@4fccd51b 
+Loaded from file:/opt/anaconda3/envs/anaconda-toolbox/lib/python3.12/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_441-b07
+user.dir=/Users/yasony/Library/Mobile Documents/com~apple~CloudDocs/GitHub/ApachSpark
+os.name=Mac OS X
+os.arch=x86_64
+os.version=15.6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
